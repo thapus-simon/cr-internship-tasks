@@ -1,0 +1,4 @@
+Install the required packages: pip install -r requirements.txt
+Download the YOLOv3 weights and place them in the models/yolo/ directory.
+Run object_detection.py for object detection.
+Run object_tracking.py for object tracking.
